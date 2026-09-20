@@ -1,0 +1,16 @@
+{
+  "name": "batman-md-bot",
+  "version": "1.0.0",
+  "description": "Batman MD WhatsApp Bot Lightweight Backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "fs-extra": "^11.2.0",
+    "pino": "^8.17.2"
+  }
+}
